@@ -21,6 +21,7 @@ The initial implementation of the project seeks to answer the following question
 The results for the first iteration of the project will be displayed in a Tableau dashboard.
 
 ### Conceptual Data Modeling Diagram
-[Conceptual Data Modeling Diagram]([Conceptual Data Modeling Diagram.png](https://github.com/DataExpert-ZachWilson-V4/capstone-project-ukangaroo/blob/main/Conceptual%20Data%20Modeling%20Diagram.png)
+![image](https://github.com/DataExpert-ZachWilson-V4/capstone-project-ukangaroo/assets/28907337/7281bc32-2354-4f21-99be-d57837079053)
+
 
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/1lXY_Wlg)
