@@ -1,4 +1,4 @@
 venv
 .venv*
-CloudFormation/
-webscrape/Wine/
+CloudFormation*
+webscrape/Wine*
